@@ -1,0 +1,27 @@
+{
+  "exp1": [{"capacity": 7,
+            "from 1 bottle": "1 liter(s)",
+            "from 2 bottle": "4 liter(s)",
+            "from 3 bottle": "1 liter(s)",
+            "from 4 bottle": "1 liter(s)"},
+           {"capacity": 3,
+            "from 4 bottle": "3 liter(s)"},
+           {"capacity": 12,
+            "from 4 bottle": "1 liter(s)"}],
+  "in1_full": [1, 4, 1, 5],
+  "in1_empty": [7, 3, 12],
+
+  "exp2": [{"capacity": 0,
+            "from 1 bottle": "0 liter(s)"}],
+  "in2_full": [1],
+  "in2_empty": [0],
+
+  "exp3": [{"capacity": 1,
+            "from 1 bottle": "0 liter(s)"}],
+  "in3_full": [0],
+  "in3_empty": [1],
+
+  "exp4": [],
+  "in4_full": [],
+  "in4_empty": []
+}
